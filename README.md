@@ -16,6 +16,7 @@
 - `language.txt`: 汉化字典文件（包含英文原文与中文翻译的 CSV/UTF-8 映射）。
 - `Makefile`: 构建脚本，用于快速编译动态库。
 - `libidahook.so`: 编译好的动态库（可直接使用）。
+- `winmm.dll`: Windows下的动态库，功能与libidahook.so类似。
 
 ## 🚀 使用方法
 
